@@ -1,0 +1,21 @@
+{
+  "name": "weekly-giveaway",
+  "version": "1.0.0",
+  "description": "A web application for a weekly giveaway where users can submit unique usernames to enter and a winner is randomly selected each week.",
+  "main": "src/script.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined yet.'"
+  },
+  "keywords": [
+    "giveaway",
+    "username",
+    "random",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^8.6.8"
+  }
+}
